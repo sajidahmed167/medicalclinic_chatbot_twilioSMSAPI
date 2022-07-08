@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rPfxIF4HLNu8X0yUh17cf9bvM0bTvbZ31+WDL4W4OVEHOxQYX6tRqvR3YF6VarEau1lE5+6YcGLcRaQVEhXdA==",
+  "success": true,
+  "projectFilePath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/sajidahmed/.nuget/packages/microsoft.data.sqlite/3.1.5/microsoft.data.sqlite.3.1.5.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/microsoft.data.sqlite.core/3.1.5/microsoft.data.sqlite.core.3.1.5.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/sajidahmed/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

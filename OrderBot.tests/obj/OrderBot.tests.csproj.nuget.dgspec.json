@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot.tests/OrderBot.tests.csproj": {}
+  },
+  "projects": {
+    "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot.tests/OrderBot.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot.tests/OrderBot.tests.csproj",
+        "projectName": "OrderBot.tests",
+        "projectPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot.tests/OrderBot.tests.csproj",
+        "packagesPath": "/Users/sajidahmed/.nuget/packages/",
+        "outputPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot.tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sajidahmed/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj": {
+                "projectPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj",
+        "projectName": "OrderBot",
+        "projectPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj",
+        "packagesPath": "/Users/sajidahmed/.nuget/packages/",
+        "outputPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sajidahmed/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
