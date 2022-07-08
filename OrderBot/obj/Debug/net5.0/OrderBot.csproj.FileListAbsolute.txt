@@ -10,3 +10,15 @@
 /Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/obj/Debug/net5.0/refint/OrderBot.dll
 /Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/obj/Debug/net5.0/OrderBot.pdb
 /Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/obj/Debug/net5.0/ref/OrderBot.dll
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/bin/Debug/net5.0/OrderBot.deps.json
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/bin/Debug/net5.0/OrderBot.dll
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/bin/Debug/net5.0/OrderBot.pdb
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.csproj.AssemblyReference.cache
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.AssemblyInfoInputs.cache
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.AssemblyInfo.cs
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.csproj.CoreCompileInputs.cache
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.dll
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/refint/OrderBot.dll
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/OrderBot.pdb
+/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/obj/Debug/net5.0/ref/OrderBot.dll

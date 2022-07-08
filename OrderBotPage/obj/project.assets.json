@@ -5446,11 +5446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBotPage/OrderBotPage.csproj",
+      "projectUniqueName": "/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBotPage/OrderBotPage.csproj",
       "projectName": "OrderBotPage",
-      "projectPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBotPage/OrderBotPage.csproj",
+      "projectPath": "/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBotPage/OrderBotPage.csproj",
       "packagesPath": "/Users/sajidahmed/.nuget/packages/",
-      "outputPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBotPage/obj/",
+      "outputPath": "/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBotPage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sajidahmed/.nuget/NuGet/NuGet.Config"
@@ -5465,8 +5465,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj": {
-              "projectPath": "/Users/sajidahmed/Documents/Main Drive/Studies/Conestoga/PROG 8060/July8Sajid/july8Sajid/July8RazorPagesOrderBot-main/OrderBot/OrderBot.csproj"
+            "/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/OrderBot.csproj": {
+              "projectPath": "/Users/sajidahmed/Documents/GitHub/medicalclinic_chatbot_twilioSMSAPI/OrderBot/OrderBot.csproj"
             }
           }
         }
